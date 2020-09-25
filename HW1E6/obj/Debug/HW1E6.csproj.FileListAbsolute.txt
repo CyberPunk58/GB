@@ -1,0 +1,7 @@
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\bin\Debug\HW1E6.exe.config
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\bin\Debug\HW1E6.exe
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\bin\Debug\HW1E6.pdb
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\obj\Debug\HW1E6.csprojAssemblyReference.cache
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\obj\Debug\HW1E6.csproj.CoreCompileInputs.cache
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\obj\Debug\HW1E6.exe
+C:\Users\PROG2\source\repos\FirstApp\HW1E6\obj\Debug\HW1E6.pdb

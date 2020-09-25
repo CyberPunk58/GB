@@ -1,0 +1,6 @@
+C:\Users\PROG2\source\repos\FirstApp\HW1E3b\bin\Debug\HW1E3b.exe.config
+C:\Users\PROG2\source\repos\FirstApp\HW1E3b\bin\Debug\HW1E3b.exe
+C:\Users\PROG2\source\repos\FirstApp\HW1E3b\bin\Debug\HW1E3b.pdb
+C:\Users\PROG2\source\repos\FirstApp\HW1E3b\obj\Debug\HW1E3b.csproj.CoreCompileInputs.cache
+C:\Users\PROG2\source\repos\FirstApp\HW1E3b\obj\Debug\HW1E3b.exe
+C:\Users\PROG2\source\repos\FirstApp\HW1E3b\obj\Debug\HW1E3b.pdb
