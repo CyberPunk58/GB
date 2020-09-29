@@ -1,0 +1,14 @@
+C:\Users\Павел\source\repos\HW2\bin\Debug\HW2.exe.config
+C:\Users\Павел\source\repos\HW2\bin\Debug\HW2.exe
+C:\Users\Павел\source\repos\HW2\bin\Debug\HW2.pdb
+C:\Users\Павел\source\repos\HW2\obj\Debug\HW2E1.csprojAssemblyReference.cache
+C:\Users\Павел\source\repos\HW2\obj\Debug\HW2E1.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\HW2\obj\Debug\HW2.exe
+C:\Users\Павел\source\repos\HW2\obj\Debug\HW2.pdb
+C:\Users\PROG2\source\repos\repos\HW2\bin\Debug\HW2.exe.config
+C:\Users\PROG2\source\repos\repos\HW2\bin\Debug\HW2.exe
+C:\Users\PROG2\source\repos\repos\HW2\bin\Debug\HW2.pdb
+C:\Users\PROG2\source\repos\repos\HW2\obj\Debug\HW2E1.csprojAssemblyReference.cache
+C:\Users\PROG2\source\repos\repos\HW2\obj\Debug\HW2E1.csproj.CoreCompileInputs.cache
+C:\Users\PROG2\source\repos\repos\HW2\obj\Debug\HW2.exe
+C:\Users\PROG2\source\repos\repos\HW2\obj\Debug\HW2.pdb

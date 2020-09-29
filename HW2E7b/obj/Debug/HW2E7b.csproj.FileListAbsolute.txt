@@ -1,0 +1,6 @@
+C:\Users\PROG2\source\repos\repos\HW2E7b\bin\Debug\HW2E7b.exe.config
+C:\Users\PROG2\source\repos\repos\HW2E7b\bin\Debug\HW2E7b.exe
+C:\Users\PROG2\source\repos\repos\HW2E7b\bin\Debug\HW2E7b.pdb
+C:\Users\PROG2\source\repos\repos\HW2E7b\obj\Debug\HW2E7b.csproj.CoreCompileInputs.cache
+C:\Users\PROG2\source\repos\repos\HW2E7b\obj\Debug\HW2E7b.exe
+C:\Users\PROG2\source\repos\repos\HW2E7b\obj\Debug\HW2E7b.pdb
