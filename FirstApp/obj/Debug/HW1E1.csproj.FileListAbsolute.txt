@@ -1,6 +1,0 @@
-C:\Users\PROG2\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
-C:\Users\PROG2\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe
-C:\Users\PROG2\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
-C:\Users\PROG2\source\repos\FirstApp\FirstApp\obj\Debug\HW1E1.csproj.CoreCompileInputs.cache
-C:\Users\PROG2\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.exe
-C:\Users\PROG2\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

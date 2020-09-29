@@ -1,6 +1,0 @@
-C:\Users\PROG2\source\repos\FirstApp\HW1E4a\bin\Debug\HW1E4a.exe.config
-C:\Users\PROG2\source\repos\FirstApp\HW1E4a\bin\Debug\HW1E4a.exe
-C:\Users\PROG2\source\repos\FirstApp\HW1E4a\bin\Debug\HW1E4a.pdb
-C:\Users\PROG2\source\repos\FirstApp\HW1E4a\obj\Debug\HW1E5a.csproj.CoreCompileInputs.cache
-C:\Users\PROG2\source\repos\FirstApp\HW1E4a\obj\Debug\HW1E4a.exe
-C:\Users\PROG2\source\repos\FirstApp\HW1E4a\obj\Debug\HW1E4a.pdb
