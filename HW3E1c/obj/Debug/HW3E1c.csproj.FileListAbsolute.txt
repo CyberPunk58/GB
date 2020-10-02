@@ -1,0 +1,6 @@
+C:\Users\PROG2\source\repos\HW3\HW3E1c\bin\Debug\HW3E1c.exe.config
+C:\Users\PROG2\source\repos\HW3\HW3E1c\bin\Debug\HW3E1c.exe
+C:\Users\PROG2\source\repos\HW3\HW3E1c\bin\Debug\HW3E1c.pdb
+C:\Users\PROG2\source\repos\HW3\HW3E1c\obj\Debug\HW3E1c.csproj.CoreCompileInputs.cache
+C:\Users\PROG2\source\repos\HW3\HW3E1c\obj\Debug\HW3E1c.exe
+C:\Users\PROG2\source\repos\HW3\HW3E1c\obj\Debug\HW3E1c.pdb
