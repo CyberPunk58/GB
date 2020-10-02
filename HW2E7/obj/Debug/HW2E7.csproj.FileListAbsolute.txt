@@ -1,7 +1,0 @@
-C:\Users\PROG2\source\repos\repos\HW2E7\bin\Debug\HW2E7.exe.config
-C:\Users\PROG2\source\repos\repos\HW2E7\bin\Debug\HW2E7.exe
-C:\Users\PROG2\source\repos\repos\HW2E7\bin\Debug\HW2E7.pdb
-C:\Users\PROG2\source\repos\repos\HW2E7\obj\Debug\HW2E7.csproj.CoreCompileInputs.cache
-C:\Users\PROG2\source\repos\repos\HW2E7\obj\Debug\HW2E7.exe
-C:\Users\PROG2\source\repos\repos\HW2E7\obj\Debug\HW2E7.pdb
-C:\Users\PROG2\source\repos\repos\HW2E7\obj\Debug\HW2E7.csprojAssemblyReference.cache
