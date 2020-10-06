@@ -1,7 +1,0 @@
-C:\Users\PROG2\source\repos\HW3\HW3E2\bin\Debug\HW3E2.exe.config
-C:\Users\PROG2\source\repos\HW3\HW3E2\bin\Debug\HW3E2.exe
-C:\Users\PROG2\source\repos\HW3\HW3E2\bin\Debug\HW3E2.pdb
-C:\Users\PROG2\source\repos\HW3\HW3E2\obj\Debug\HW3E2.csproj.CoreCompileInputs.cache
-C:\Users\PROG2\source\repos\HW3\HW3E2\obj\Debug\HW3E2.exe
-C:\Users\PROG2\source\repos\HW3\HW3E2\obj\Debug\HW3E2.pdb
-C:\Users\PROG2\source\repos\HW3\HW3E2\obj\Debug\HW3E2.csprojAssemblyReference.cache
