@@ -1,0 +1,7 @@
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\bin\Debug\HW5E1-2.exe.config
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\bin\Debug\HW5E1-2.exe
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\bin\Debug\HW5E1-2.pdb
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\obj\Debug\HW5E1-2.csprojAssemblyReference.cache
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\obj\Debug\HW5E1-2.csproj.CoreCompileInputs.cache
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\obj\Debug\HW5E1-2.exe
+C:\Users\PROG2\source\repos\HW5\HW5E1-2\obj\Debug\HW5E1-2.pdb
